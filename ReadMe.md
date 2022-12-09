@@ -6,5 +6,7 @@ Array :
 
   3.Pascal Triangle : https://www.geeksforgeeks.org/java-program-to-print-pascals-triangle/
   
+  4. Dutch National Flag Problem : https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/
+  
   
   
