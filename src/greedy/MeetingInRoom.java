@@ -1,3 +1,8 @@
+package greedy;
+
+import java.util.ArrayList;
+import java.util.Collections;
+
 class Meeting  implements  Comparable<Meeting>
 {
     int start;
